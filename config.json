@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100053549552408",
+    "100094118835962",
     ""
   ],
   "whiteListMode": {
@@ -25,12 +25,12 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "OWNER": "Cliff Vincent",
+  "OWNER": "chris stars",
   "AGE": "18",
   "GENDER": "MALE",
   "nickNameBot": "Yazkybot",
-  "FACEBOOK": "https://www.facebook.com/swordigo.swordslush",
-  "prefix": "✓",
+  "FACEBOOK": "https://www.facebook.com/profile.php?id=100094118835962",
+  "prefix": ">",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
